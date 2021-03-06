@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100vh;
+    background-color: lightblue;
+   
+    
+}
+navbar-style{
+    box-shadow: 0 5px 10px #efefef;
+    text-transform: uppercase;
+    background-color: darkblue;
+}
+.logo {
+    height: 48px;
+    padding: 2px 10px;
+    border-radius: 70px;
+}
+.icon-bar {
+    background: black;
+}
+
+
+.li a{
+    color: #333;
+    background-color: lightblue;
+
+}
+.big-text{
+    font-size: 42px;
+    margin: 20px 0;
+    color: darkorange;
+}
+
+.navbar-nav navbar-right{
+    background-color: lightblue;
+}
+.img-responsive{
+    margin: 12px;
+    border-radius: 90%;
+    height: 110%;
+    width: 300px;
+    margin-left: 30%;
+    
+   
+}
+.row{
+    margin:-12px ;
+}
+
+  .pics{
+    height: 48px;
+    padding: 100px 10px;
+  }
+  #h1
+  {
+      font-family: 'Brush Script MT', cursive;
+      font-size: 90px;
+  }
+ #micon{
+     background-color: lightblue;
+     padding-left: 123px;
+     padding-right:123px ;
+     
+ }
+ .flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    
+  }
+  
+  .flex-container .div {
+    
+    width: 50px;
+    margin: 10px;
+    
+    line-height: 75px;
+    
+  }
+  
+ 
+ 
+
+ 
